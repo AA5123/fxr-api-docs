@@ -1,3 +1,0 @@
-{"type":"CUSTOM","antennas":[5,6],"transmitPower":[30,30],
- "accesses":[{"type":"READ","config":{"membank":"TID","wordPointer":0,"wordCount":6}}],
- "tagMetaData":["ANTENNA","RSSI"]}

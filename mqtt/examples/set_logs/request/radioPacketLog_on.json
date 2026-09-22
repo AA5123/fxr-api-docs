@@ -1,7 +1,0 @@
-{
-  "command": "set_logs",
-  "command_id": "req-set-logs-radioPacketLog-on",
-  "payload": {
-    "radioPacketLog": true
-  }
-}

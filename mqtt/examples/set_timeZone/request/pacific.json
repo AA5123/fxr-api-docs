@@ -1,7 +1,0 @@
-{
-  "command": "set_timeZone",
-  "command_id": "req-set-timeZone-pacific",
-  "payload": {
-    "timeZone": "Pacific Time (US & Canada)"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "certname": {
-    "in": "path",
-    "required": true,
-    "type": "string",
-    "example": "mqtt-client-cert"
-  }
-}

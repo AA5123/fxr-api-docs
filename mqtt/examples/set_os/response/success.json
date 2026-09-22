@@ -1,6 +1,0 @@
-{
-  "command": "set_os",
-  "command_id": "req-set-os",
-  "payload": {},
-  "response": "success"
-}

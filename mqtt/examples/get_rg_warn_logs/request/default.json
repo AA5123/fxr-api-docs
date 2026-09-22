@@ -1,5 +1,0 @@
-{
-  "command": "get_logs_rgWarningLog",
-  "command_id": "req-get-rg-warn-logs",
-  "payload": {}
-}

@@ -1,5 +1,0 @@
-{
-  "command": "get_status",
-  "command_id": "req-get-status",
-  "payload": {}
-}

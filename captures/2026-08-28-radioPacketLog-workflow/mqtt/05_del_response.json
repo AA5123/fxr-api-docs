@@ -1,6 +1,0 @@
-{
-  "command": "del_logs_radioPacketLog",
-  "command_id": "req-del-radio-pkt-logs",
-  "payload": {},
-  "response": "success"
-}

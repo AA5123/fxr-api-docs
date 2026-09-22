@@ -1,6 +1,0 @@
-{
-  "command": "set_uninstallUserapp",
-  "command_id": "req-uninstall-user-app",
-  "payload": "",
-  "response": "success"
-}

@@ -1,5 +1,0 @@
-{
-  "command": "get_networkInterfaces",
-  "command_id": "req-get-networkInterfaces",
-  "payload": {}
-}

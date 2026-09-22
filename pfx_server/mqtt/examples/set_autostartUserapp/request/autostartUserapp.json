@@ -1,7 +1,0 @@
-{
-  "command": "set_autostartUserapp",
-  "payload": {
-    "appname": "sampleNew",
-    "autostart": true
-  }
-}

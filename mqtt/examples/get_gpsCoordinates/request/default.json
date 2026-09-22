@@ -1,5 +1,0 @@
-{
-  "command": "get_gpsCoordinates",
-  "command_id": "req-get-gpsCoordinates",
-  "payload": {}
-}

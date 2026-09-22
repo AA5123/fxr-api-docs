@@ -1,7 +1,0 @@
-{
-  "command": "set_hostName",
-  "command_id": "req-set-hostname",
-  "payload": {
-    "hostname": "FXR609BE34A"
-  }
-}

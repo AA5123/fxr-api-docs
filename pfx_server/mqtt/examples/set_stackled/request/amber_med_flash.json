@@ -1,9 +1,0 @@
-{
-  "command": "set_stackled",
-  "payload": {
-    "color": "amber",
-    "brightness": "med",
-    "flash": true,
-    "seconds": 15
-  }
-}

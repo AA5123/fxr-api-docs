@@ -1,8 +1,0 @@
-{
-  "command": "set_autostartUserapp",
-  "command_id": "req-autostart-user-app",
-  "payload": {
-    "appname": "mylogger",
-    "autostart": false
-  }
-}

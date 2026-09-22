@@ -1,5 +1,0 @@
-{
-  "command": "get_readerCapabilities",
-  "command_id": "req-get-readerCapabilities",
-  "payload": {}
-}

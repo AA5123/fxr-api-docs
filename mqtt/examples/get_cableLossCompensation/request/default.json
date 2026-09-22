@@ -1,5 +1,0 @@
-{
-  "command": "get_cableLossCompensation",
-  "command_id": "req-get-cableLossCompensation",
-  "payload": {}
-}

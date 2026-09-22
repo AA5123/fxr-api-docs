@@ -1,6 +1,0 @@
-{
-  "command": "set_startUserapp",
-  "payload": {
-    "appname": "sampleNew"
-  }
-}

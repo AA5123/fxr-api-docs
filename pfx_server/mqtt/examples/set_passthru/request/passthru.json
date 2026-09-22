@@ -1,7 +1,0 @@
-{
-  "command": "set_passthru",
-  "payload": {
-    "component": "RC",
-    "payload": "mode"
-  }
-}

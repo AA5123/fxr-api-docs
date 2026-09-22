@@ -1,9 +1,0 @@
-{
-  "command": "stop",
-  "payload": {
-    "scanType": [
-      "ble",
-      "rfid"
-    ]
-  }
-}

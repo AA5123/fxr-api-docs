@@ -1,7 +1,0 @@
-{
-  "command": "set_preSelection",
-  "command_id": "req-set-preSelection",
-  "payload": {
-    "preSelection": true
-  }
-}

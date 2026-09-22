@@ -1,9 +1,0 @@
-{
-  "command": "set_reqToUserapp",
-  "payload": {
-    "userapp": "mylogger",
-    "command": {
-      "message": "Hello World!!!"
-    }
-  }
-}

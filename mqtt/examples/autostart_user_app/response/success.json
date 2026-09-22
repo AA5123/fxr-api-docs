@@ -1,6 +1,0 @@
-{
-  "command": "set_autostartUserapp",
-  "command_id": "req-autostart-user-app",
-  "payload": {},
-  "response": "success"
-}

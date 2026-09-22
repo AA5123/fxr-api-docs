@@ -1,5 +1,0 @@
-{
-  "command": "get_logs",
-  "command_id": "req-get-logs",
-  "payload": {}
-}

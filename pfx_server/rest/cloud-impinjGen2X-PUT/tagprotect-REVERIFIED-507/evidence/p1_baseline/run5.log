@@ -1,4 +1,0 @@
-  mode HTTP 200 
-  start HTTP 200   body={}
-Timed out
-  events: 2

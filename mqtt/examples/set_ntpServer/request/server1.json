@@ -1,7 +1,0 @@
-{
-  "command": "set_ntpServer",
-  "command_id": "req-set-ntpServer-server1",
-  "payload": {
-    "server1": "time.cloudflare.com"
-  }
-}

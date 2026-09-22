@@ -1,7 +1,0 @@
-{
-  "command": "set_region",
-  "payload": {
-    "country": "United States/Canada",
-    "standardname": "US_FCC_C"
-  }
-}

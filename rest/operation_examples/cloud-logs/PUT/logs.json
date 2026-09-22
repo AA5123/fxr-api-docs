@@ -1,9 +1,0 @@
-{
-  "components": [
-    {
-      "componentName": "reader_gateway",
-      "level": "DEBUG"
-    }
-  ],
-  "radioPacketLog": true
-}

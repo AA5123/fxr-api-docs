@@ -1,5 +1,0 @@
-{
-  "command": "get_version",
-  "command_id": "req-get-version",
-  "payload": {}
-}

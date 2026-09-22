@@ -1,7 +1,0 @@
-{
-  "command": "set_eSimConfig",
-  "payload": {
-    "operation": "disable",
-    "profileNickName": "gnd1"
-  }
-}

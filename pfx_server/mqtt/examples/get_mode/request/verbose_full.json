@@ -1,6 +1,0 @@
-{
-  "command": "get_mode",
-  "payload": {
-    "verbose": true
-  }
-}

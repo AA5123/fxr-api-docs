@@ -1,8 +1,0 @@
-{
-  "command": "set_bleConfig",
-  "payload": {
-    "ble": {
-      "enable": false
-    }
-  }
-}
