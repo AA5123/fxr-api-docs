@@ -15830,7 +15830,7 @@
                     "properties": {
                       "port": {
                         "type": "number",
-                        "description": "GPO port number (1\u20134 for FXR90; device-specific maximum applies).",
+                        "description": "GPO port number (1\u20134).",
                         "minimum": 1,
                         "maximum": 4,
                         "example": 3
